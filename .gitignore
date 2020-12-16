@@ -1,2 +1,4 @@
 *.txt
+*.csv
+*.xlsx
 test_code.py
